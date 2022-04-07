@@ -1,0 +1,11 @@
+/*Headers will be yellow with black text*/
+/*Images have black background*/
+/*Different fonts for main recipe links*/
+/**/
+
+h1 {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+}
