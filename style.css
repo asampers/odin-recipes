@@ -3,12 +3,20 @@
 /*Different fonts for main recipe links*/
 /**/
 
-h1,h2 {
+h1,h2,h3 {
     background-color: yellow;
     color: black;
     font-weight: bold;
     font-family:'Courier New', Courier, monospace;
+}
+
+h1,h2 {
     text-align: center;
+}
+
+h3 {
+    background-color: peachpuff;
+
 }
 
 li {
