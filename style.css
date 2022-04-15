@@ -10,7 +10,7 @@ h1,h2,h3 {
     font-family:'Courier New', Courier, monospace;
 }
 
-h1,h2 {
+h1,h2,.two,p,h4 {
     text-align: center;
 }
 
@@ -19,20 +19,27 @@ h3 {
 
 }
 
-li {
+li,ol {
     background-color: plum;
     font-size: 24px;
 }
 
-.one,.two {
+.one,.two,.quote {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.two {
-    text-align: center;
 }
 
 .three {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: end;
 }
+
+.ingredients {
+    background-color:aquamarine;
+    color:brown;
+    font-size: 18px;
+}
+
+.serving-info {
+    font-size:smaller;
+}
+
