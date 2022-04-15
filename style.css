@@ -11,3 +11,20 @@ h1 {
     text-align: center;
 }
 
+li {
+    background-color: plum;
+    font-size: 24px;
+}
+
+.one,.two {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.two {
+    text-align: center;
+}
+
+.three {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: end;
+}
