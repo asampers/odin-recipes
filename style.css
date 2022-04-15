@@ -33,7 +33,7 @@ li,ol {
     text-align: end;
 }
 
-.ingredients {
+ul,ul.ingredients li {
     background-color:aquamarine;
     color:brown;
     font-size: 18px;
